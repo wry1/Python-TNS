@@ -1,1 +1,1 @@
-# Python-TNS
+# Ti-Nspire Python
